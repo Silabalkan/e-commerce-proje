@@ -1,1 +1,1 @@
-# e-commerce-proje
+# june-frontend-exclusiveEcommerce-1
